@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/Metaverse-Nabeel/Number-Guessing-Game-npm-pkg/issues"
   },
-  "homepage": "https://github.com/Metaverse-Nabeel/Number-Guessing-Game-npm-pkg#readme"
+  "homepage": "https://github.com/Metaverse-Nabeel/Number-Guessing-Game-npm-pkg#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
 }
